@@ -1,0 +1,11 @@
+book_id	title	author	year	category	status	borrower_name
+1	Harry Potter and the Sorcerer’s Stone	J.K. Rowling	1997	Fantasy	Available	
+2	The Hobbit	J.R.R. Tolkien	1937	Fantasy	Borrowed	Ahmed
+3	To Kill a Mockingbird	Harper Lee	1960	Fiction	Available	
+4	1984	George Orwell	1949	Dystopian	Available	
+5	Pride and Prejudice	Jane Austen	1813	Romance	Borrowed	Sarah
+6	The Great Gatsby	F. Scott Fitzgerald	1925	Fiction	Available	
+7	Moby Dick	Herman Melville	1851	Adventure	Available	
+8	War and Peace	Leo Tolstoy	1869	Historical	Borrowed	Omar
+9	The Catcher in the Rye	J.D. Salinger	1951	Fiction	Available	
+10	The Lord of the Rings: The Fellowship of the Ring	J.R.R. Tolkien	1954	Fantasy	Available

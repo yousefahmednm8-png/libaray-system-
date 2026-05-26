@@ -1,0 +1,20 @@
+[
+    {
+        "book_id": 1,
+        "title": "Harry Potter and the Sorcerer\u2019s Stone",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "category": "Fantasy",
+        "status": "Available",
+        "borrower_name": ""
+    },
+    {
+        "book_id": "2",
+        "title": "HOW TO Learn python",
+        "author": "yousef",
+        "year": "2021",
+        "category": "education",
+        "status": "Available",
+        "borrower_name": ""
+    }
+]
