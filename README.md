@@ -1,22 +1,27 @@
 # 📚 Library Management System
 
-A simple Library Management System built using Python and JSON files.
+A lightweight Library Management System built with Python.
 
-The project helps manage books inside a small library system by allowing users to:
+This project allows users to manage and organize books using JSON as a simple database system.  
+It was created to practice Python fundamentals, file handling, and modular programming.
 
-* View available books
-* Add new books
-* Search for books
-* Store and organize book data using JSON
+## ✨ Features
 
-The main goal of the project is to practice:
+- Add books
+- View books
+- Search for books
+- Store data using JSON
 
-* Python programming
-* File handling
-* Working with JSON data
-* Organizing code into multiple modules
+## 🛠 Built With
 
-## 🛠️ Technologies Used
+- Python
+- JSON
+- File Handling
 
-* Python
-* JSON
+## 📂 Project Goal
+
+The main purpose of this project is improving:
+- Python skills
+- Data organization
+- Working with files and JSON
+- Writing clean modular code
